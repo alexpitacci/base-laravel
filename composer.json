@@ -1,5 +1,5 @@
 {
-    "name": "balajidharma/laravel-vue-admin-panel",
+    "name": "alexpitacci/base-laravel",
     "type": "project",
     "description": "The Laravel Vue Admin Panel - Laravel Vue Admin Boilerplate.",
     "keywords": ["framework", "laravel", "boilerplate", "admin panel"],
